@@ -1,3 +1,5 @@
+
+![logo](https://github.com/mrudulasakhare/mrudulasakhare/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Mrudula Sakhare</h1>
 <h3 align="center">I KNEW BUSINESS, NOW I KNOW DATA TOO</h3>
 
